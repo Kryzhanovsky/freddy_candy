@@ -1,0 +1,29 @@
+html,
+body,
+#root {
+    height: 100%;
+}
+
+#root {
+    background: #eee;
+}
+
+body {
+    height: 100%;
+    overflow: auto;
+}
+
+button {
+    background: #68aa00;
+    color: #fff;
+    border: 0;
+    padding: 10px 20px;
+}
+
+img {
+    max-width: 100%;
+}
+
+.App {
+    display: flex;
+}
